@@ -1,0 +1,11 @@
+fondoCam = 'black'
+fondoCon = '#1E1E1E'
+high = '#1129A5'
+highover = '#3652DF'
+highpress = '#0F217C'
+highdesc = '#989CAF'
+font = 'white'
+fontdesc = '#3F4042'
+COLORINFO = (255,255,0)
+COLORDESC= (0,0,255)
+COLORDETEC = (0,255,0)

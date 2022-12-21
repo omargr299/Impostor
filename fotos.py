@@ -1,0 +1,1 @@
+NO = "foto.jpg"
